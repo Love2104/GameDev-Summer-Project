@@ -15,9 +15,6 @@
 ### 🚀 Build & Run
 
 "bash
-git clone https://github.com/yourusername/opengl-renderer.git
-cd opengl-renderer
-cmake -G "Visual Studio 17 2022" -B build
 "
 
 1. Open "build/OpenGLRenderer.sln" in Visual Studio  
